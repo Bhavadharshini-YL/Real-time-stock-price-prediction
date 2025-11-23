@@ -1,0 +1,1 @@
+{"mae": 7.701940120095664, "mse": 151.40330704495136, "r2": 0.9832041278018755, "features": ["open", "high", "low", "close", "volume", "rsi_7", "rsi_14", "cci_7", "cci_14", "sma_50", "ema_50", "sma_100", "ema_100", "macd", "bollinger", "TrueRange", "atr_7", "atr_14"]}
