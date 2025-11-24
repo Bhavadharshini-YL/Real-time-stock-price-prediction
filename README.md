@@ -31,8 +31,7 @@ Predicting stock market movements has always been one of the most challenging ta
 <img width="1121" height="649" alt="Screenshot 2025-11-22 194521" src="https://github.com/Bhavadharshini-YL/Real-time-stock-price-prediction/blob/main/screenshots/Screenshot%202025-11-22%20194521.png"/>
 <img width="1121" height="649" alt="Screenshot 2025-11-22 195404" src="https://github.com/Bhavadharshini-YL/Real-time-stock-price-prediction/blob/main/screenshots/Screenshot%202025-11-22%20195404.png"/>
 <img width="1121" height="649" alt="Screenshot 2025-11-22 195434" src="https://github.com/Bhavadharshini-YL/Real-time-stock-price-prediction/blob/main/screenshots/Screenshot%202025-11-22%20195434.png"/>
-<img width="1121" height="649" alt="Screenshot 2025-11-22 195456" src="
-
+<img width="1121" height="649" alt="Screenshot 2025-11-22 195456" src="https://github.com/Bhavadharshini-YL/Real-time-stock-price-prediction/blob/main/screenshots/Screenshot%202025-11-22%20195456.png"/>
 <img width="1121" height="649" alt="Screenshot 2025-11-22 195506" src="
 
 
