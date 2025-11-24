@@ -10,18 +10,18 @@ Predicting stock market movements has always been one of the most challenging ta
 
 ## Technologies used
 
--Python
--NumPy
--Pandas
--Matplotlib
--Jupyter Notebook
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Jupyter Notebook
 
 ## Key contributions
 
--Built an end-to-end LSTM-based stock price prediction model.
--Designed a Streamlit web app for uploading data and generating predictions.
--Implemented a clean workflow: data preprocessing → model training → evaluation → visualization.
--Used nearly a decade of real stock market data for realistic forecasting.
+- Built an end-to-end LSTM-based stock price prediction model.
+- Designed a Streamlit web app for uploading data and generating predictions.
+- Implemented a clean workflow: data preprocessing → model training → evaluation → visualization.
+- Used nearly a decade of real stock market data for realistic forecasting.
 
 ## Screenshots
 
