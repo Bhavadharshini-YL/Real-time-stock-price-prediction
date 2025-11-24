@@ -5,7 +5,7 @@ Predicting stock market movements has always been one of the most challenging ta
 
 ## Dataset
 
-- <a href="C:\Users\Bhavadharshini\Real time stock price prediction\Data">Stock Dataset</a>
+- <a href="https://github.com/Bhavadharshini-YL/Real-time-stock-price-prediction/blob/main/Data/nflx_2014_2023.csv">Stock Dataset</a>
 - Data used is from historical stock prices (2014–2023) extracted from Yahoo Finance.
 
 ## Technologies used
