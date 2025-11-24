@@ -26,3 +26,5 @@ Predicting stock market movements has always been one of the most challenging ta
 ## Screenshots
 
 <img width="1121" height="649" alt= "Screenshot 2025-11-22 194429" src="C:\Users\Bhavadharshini\Real time stock price prediction\screenshots"/>
+![App Screenshot](screenshots/Screenshot%202025-11-22%20194429.png)
+
