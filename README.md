@@ -34,5 +34,10 @@ Predicting stock market movements has always been one of the most challenging ta
 <img width="1121" height="649" alt="Screenshot 2025-11-22 195456" src="https://github.com/Bhavadharshini-YL/Real-time-stock-price-prediction/blob/main/screenshots/Screenshot%202025-11-22%20195456.png"/>
 <img width="1121" height="649" alt="Screenshot 2025-11-22 195506" src="https://github.com/Bhavadharshini-YL/Real-time-stock-price-prediction/blob/main/screenshots/Screenshot%202025-11-22%20195506.png"/>
 
+## Conclusion
+
+This project shows how an LSTM model can learn from past stock prices and make simple future predictions.Although stock markets are unpredictable, the model captures basic trends well and gives a clear idea of how deep learning works for time-series forecasting.
+It’s a clean, beginner-friendly project that covers data preprocessing, model building, and deployment with Streamlit.
+
 
 
